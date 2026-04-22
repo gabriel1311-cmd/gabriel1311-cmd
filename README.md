@@ -7,7 +7,7 @@ I design systems that are logical, efficient, and maintainable. My focus is on u
 ---
 
 ### 🛠️ Technical Focus
-* **Languages**: Java (Spring Boot), C++, and currently exploring Rust.
+* **Languages**: Java and C++
 * **Competitive Programming**: Active on Codeforces, solving algorithmic challenges with C++.
 * **Environments**: Minimalist, terminal-based workflows. Linux user (Ubuntu/BackBox).
 * **Tools**: Cisco Certified in Python Essentials. Actively developing high-performance logic with C++.
