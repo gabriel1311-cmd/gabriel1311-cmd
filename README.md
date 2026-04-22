@@ -1,16 +1,30 @@
-## Hi there 👋
+# Gabriel Blanco
 
-<!--
-**gabriel1311-cmd/gabriel1311-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering Student @ Universidad de La Salle | Backend & Systems Architecture**
 
-Here are some ideas to get you started:
+I design systems that are logical, efficient, and maintainable. My focus is on understanding the "how" and "why" behind every line of code, prioritizing performance and simplicity in every solution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Focus
+* **Languages**: Java (Spring Boot), C++, and currently exploring Rust.
+* **Competitive Programming**: Active on Codeforces, solving algorithmic challenges with C++.
+* **Environments**: Minimalist, terminal-based workflows. Linux user (Ubuntu/BackBox).
+* **Tools**: Cisco Certified in Python Essentials. Actively developing high-performance logic with C++.
+
+### 🚀 Featured Projects
+* **MicroSaaS-Sentinel**: Financial monitoring engine designed for KPI calculation and business reporting.
+
+
+### 💡 My Philosophy
+> *"Programming is not about what you know; it's about what you can figure out."* — Chris Pine
+
+I approach software as a puzzle where **performance** and **simplicity** are the ultimate goals. Whether building high-scale backend systems or optimizing low-level memory management, I aim for architectural excellence.
+
+### 📫 Let's Connect
+* **Portfolio**: [gabrielblanc0o.github.io](https://gabrielblanc0o.github.io/GabrielBlanc0o/)
+* **LinkedIn**: [in/gabrielblancot](https://www.linkedin.com/in/gabrielblancot/)
+* **Email**: gabrieltarazonablanco@gmail.com
+
+---
+*"The only way to learn a new programming language is by writing programs in it."* — Dennis Ritchie
