@@ -1,5 +1,8 @@
 # Gabriel Blanco
 
+THIS IS MY OLD GITHUB ACCOUNT SEE NEW HERE
+https://github.com/GabrielBlanc0o
+
 **Software Engineering Student @ Universidad de La Salle | Backend & Systems Architecture**
 
 I design systems that are logical, efficient, and maintainable. My focus is on understanding the "how" and "why" behind every line of code, prioritizing performance and simplicity in every solution.
